@@ -1,4 +1,4 @@
-# Gestione di un e-commerce
+# Gestionale per e-commerce
 Applicazione Desktop, sviluppata in Python utilizzando Tkinter, per la gestione di un e-commerce.
 
 ## Funzionalità principali
